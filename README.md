@@ -8,7 +8,7 @@ Refactoring the shop=shop application to converting from the Context Api to usin
 
 ## Technologies
 
-JavaScript, Node.js, HTML, CSS, Node, React, GraphQL and Redux.
+JavaScript, CSS, Node, React, GraphQL and Redux.
 
 
 ## Link 
@@ -18,15 +18,8 @@ JavaScript, Node.js, HTML, CSS, Node, React, GraphQL and Redux.
 
 
 ## Usage
-The user wll online shop through the shop-shop application. 
-
-
-      
-## Screenshots
+The user wll online shop through the shop-shop application.
     
-
-
-
 
     
 
